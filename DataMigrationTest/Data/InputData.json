@@ -1,0 +1,83 @@
+{
+  "id": 1000000001,
+  "name": "Antminer S17",
+  "hostname": "192.168.0.224",
+  "hostDescription": "192.168.0.224:4028",
+  "groupID": 0,
+  "pool": "stratum.slushpool.com",
+  "temperature": "59 59 59 °C",
+  "hardware": "AntminerS17",
+  "softwareType": "CgMinerCustom",
+  "macAddress": "A1B2C3D4E5F6",
+  "statusInfo": {
+    "statusDisplay": "Mining",
+    "statusLine3": "1h 41m ",
+    "secondsSinceStart": 6087
+  },
+  "progressInfo": {
+    "line1": "Accepted: 5442",
+    "line2": "Rejected: 4",
+    "line3": "HW Errors: 4",
+    "acceptedValue": 5442,
+    "rejectedValue": 4,
+    "hwErrorsValue": 4
+  },
+  "speedInfo": {
+    "logInterval": 5,
+    "hashrate": "73,22 TH/s",
+    "hashrateValue": 73220000000000,
+    "avgHashrate": "73,96 TH/s",
+    "avgHashrateValue": 73959000000000,
+    "workUtility": "0,00",
+    "line2": "Avg: 73,96 TH/s",
+    "line3": "Power: 2865 W"
+  },
+  "coinInfo": {
+    "displayName": "Bitcoin (BTC)",
+    "shortName": "BTC",
+    "revenuePerDay": "$10,17",
+    "revenuePerDayValueDisplayCurrency": 10.165515374422721,
+    "revenuePerDayValue": 10.165515374422721,
+    "revenuePerDayValueBtc": 0.0011888546144192885,
+    "revenuePerMonth": "$308,02",
+    "profitPerDayValue": 10.165515374422721,
+    "profitPerDayValueBtc": 0.0011888546144192885,
+    "profitPerDay": "$10,17",
+    "profitPerMonth": "$308,02",
+    "powerUsageValue": 2865,
+    "isActualPowerUsage": true,
+    "algorithm": "SHA256",
+    "coinClass": "PreDefined"
+  },
+  "maxTemperatureValue": 59,
+  "avgTemperatureValue": 59,
+  "isRunning": true,
+  "isOffline": false,
+  "updatedUtc": "2020-03-01T17:08:28.9865477Z",
+  "updated": "2020-03-01 18:08:28",
+  "poolList": [
+    {}
+  ],
+  "gpuList": [],
+  "pgaList": [],
+  "asicList": [
+    {},
+    {},
+    {}
+  ],
+  "cpuList": [],
+  "hasPool": true,
+  "hasGpu": false,
+  "hasPga": false,
+  "hasAsic": true,
+  "hasCpu": false,
+  "canReboot": true,
+  "canStop": true,
+  "canRestart": true,
+  "canStart": false,
+  "canPool": true,
+  "canPoolSwitch": true,
+  "canPoolSave": true,
+  "hasValidStatus": true,
+  "hasFirmwareLicense": false
+}
